@@ -1,8 +1,4 @@
 <p align="center">
-  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
-</p>
-
-<p align="center">
 Projeto de um Formulário de matrícula desenvolvido durante as aulas sobre Formulários na Rocketseat.
 </p>
 
